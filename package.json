@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d buil"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "homepage": "https://Cizawells.github.io/davision",
   "dependencies": {
-    "gh-pages": "^2.1.0"
+    "gh-pages": "^1.2.0"
   }
 }
